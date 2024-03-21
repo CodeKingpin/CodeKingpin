@@ -1,5 +1,9 @@
 ## Hey 👋🐳  
-  
+
+  </td></tr></table>  
+
+<br/>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeKingpin&label=Profile%20views&color=0e75b6&style=flat" alt="CodeKingpin" /> </p>
 
 ## Languages and Tools  
